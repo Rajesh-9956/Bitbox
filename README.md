@@ -44,7 +44,7 @@ Don't forget to give the project a star if you find it useful!
 Contact
 For inquiries, reach out to Your Name via email at email@example.com.
 
-<img width="40" height="60" alt="image" src="https://github.com/user-attachments/assets/e673442f-c449-44ad-b6cb-1ce1fe7d840c" /> Project Link: https://github.com/your_username/BitBox
+<img width="35" height="50" alt="image" src="https://github.com/user-attachments/assets/e673442f-c449-44ad-b6cb-1ce1fe7d840c" /> Project Link: https://github.com/your_username/BitBox
 
 Acknowledgments
 Choose an Open Source License
