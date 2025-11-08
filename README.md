@@ -1,10 +1,15 @@
 # Bitbox
-Overview
+<img width="50" height="70" alt="image" src="https://github.com/user-attachments/assets/599ce849-c56b-4cfe-a7a4-90175d72c180" /> OVERVIEW 
+ 
+
 BitBox is a platform designed to facilitate the upload and sharing of projects. It aims to provide a collaborative environment for developers to showcase their work, collaborate with others, and learn from each other's projects.
 
-About The Project
+<img width="40" height="60" alt="image" src="https://github.com/user-attachments/assets/f652703f-bab4-4eb7-86c5-f1a8625a029b" /> ABOUT US 
+
+ The Project
 BitBox aims to provide an enhanced README template that is comprehensive and customizable to suit the needs of various projects. It includes sections for project overview, built with, getting started, usage, roadmap, contributing, license, contact, and acknowledgments.
 
+<img width="40" height="60" alt="image" src="https://github.com/user-attachments/assets/56c8540e-3acc-437f-b2ad-26a8414acb26" />
 Built With
 React.js CSS Bootstrap
 
@@ -22,6 +27,7 @@ To run BitBox locally, ensure you have the following installed: npm
 Installation
 Clone the repo sh Copy code
 
+<img width="40" height="60" alt="image" src="https://github.com/user-attachments/assets/c0b7f18b-cdfe-4a1e-a4ee-97abb23d307d" />
   git clone https://github.com/your_username/BitBox.git   
 Install NPM packages sh Copy code
 
@@ -38,7 +44,7 @@ Don't forget to give the project a star if you find it useful!
 Contact
 For inquiries, reach out to Your Name via email at email@example.com.
 
-Project Link: https://github.com/your_username/BitBox
+<img width="40" height="60" alt="image" src="https://github.com/user-attachments/assets/e673442f-c449-44ad-b6cb-1ce1fe7d840c" /> Project Link: https://github.com/your_username/BitBox
 
 Acknowledgments
 Choose an Open Source License
